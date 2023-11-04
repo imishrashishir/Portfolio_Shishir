@@ -10,7 +10,7 @@ Welcome to my personal portfolio website!this website is a canvas that showcases
 - **Contact**: 📫 Reach out to me via email or social media.
 
 ## 🌐 Live Website
-Visit my portfolio website live at [shishirmishra](https://portfolio-shishir.vercel.app/).
+Visit my portfolio website live at [Click Here](https://portfolio-shishir.vercel.app/).
 
 ## 🛠️ Technologies Used
 - HTML
@@ -32,9 +32,9 @@ Want to contribute to my portfolio website? Fantastic! Follow these steps:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
-- Email: your.email@example.com 📧
-- LinkedIn: [Shishir Mishra](https://www.linkedin.com/in/shishirmishra/) 👥
-- Twitter: [@ShishirMishra](https://twitter.com/ShishirMishra) 🐦
+- Email: shishirmishra04@gmail.com 📧
+- LinkedIn: [Shishir Mishra](https://www.linkedin.com/in/imishrashishir) 👥
+- Twitter: [@ShishirMishra](https://twitter.com/imishrashishir) 🐦
 
 Feel free to send a message if you have questions, suggestions, or just want to chat.
 
